@@ -28,7 +28,7 @@ Para mais informações sobre o Spring Boot, visite a [documentação oficial](h
 2. **Como executar:**
    - Clone o repositório:
      ```
-     git clone [[URL do Repositório]](https://github.com/kennedyrocha/help-desk)
+     git clone https://github.com/kennedyrocha/help-desk.git
      ```
    - Navegue até a pasta do projeto e execute:
      ```
